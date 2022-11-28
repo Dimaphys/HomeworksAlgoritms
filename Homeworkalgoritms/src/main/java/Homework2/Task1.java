@@ -66,7 +66,7 @@ public class Task1 {
 //        a=a+n/2;
 //
 //        }
-//          time O(n) =n * корень из n
+//          time O(n) =n * log n
 //          space = 3
 //
 //
